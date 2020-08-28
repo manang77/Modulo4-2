@@ -21,18 +21,19 @@ h1 {
     border: 1px solid lightgrey;
     border-radius: 3px;
     font-size: 30px;
-    min-height: 30px;
+    min-height: 35px;
     text-align: right;
 }
 
 .container-operands {
-    padding: 10px 0px 10px 10px;
+    padding: 10px;
     background-color:  #f2f2f2;
     border: 1px solid lightgrey;
     border-radius: 3px;
 }
 
 .field {
+    width: 100%;
     padding: 0px 5px 5px 0px;
     font-size: 30px;
     text-align: right;
@@ -42,7 +43,7 @@ h1 {
 
 .container-operations {
     margin: 5px 0px 0px 0px;
-    padding: 10px 0px 10px 10px;
+    padding: 5px;
     background-color: #f2f2f2;
     border: 1px solid lightgrey;
     border-radius: 3px;
@@ -66,6 +67,6 @@ h1 {
     border: 1px solid lightgrey;
     border-radius: 3px;
     font-size: 20px;
-    min-height: 20px;
+    min-height: 30px;
 }
 
