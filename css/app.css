@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+.container-calculator {
+    width: 25%;
+    margin: auto;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}  
+
+.container-result {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    font-size: 30px;
+    min-height: 30px;
+    text-align: right;
+}
+
+.container-operands {
+    padding: 10px 0px 10px 10px;
+    background-color:  #f2f2f2;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}
+
+.field {
+    padding: 0px 5px 5px 0px;
+    font-size: 30px;
+    text-align: right;
+    border: 1px solid #ccc;
+    box-sizing:border-box;
+}
+
+.container-operations {
+    margin: 5px 0px 0px 0px;
+    padding: 10px 0px 10px 10px;
+    background-color: #f2f2f2;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+}
+
+.operator {
+    background-color: #c7b93e;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.container-message {
+    margin:  5px 0px;
+    padding: 5px;
+    background-color: lightgoldenrodyellow;
+    color: red;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    font-size: 20px;
+    min-height: 20px;
+}
+
